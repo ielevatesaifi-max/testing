@@ -2,5 +2,4 @@ A Version Control System (VCS) is a tool used in software development and collab
 
 Tracks and records changes to the codebase, maintaining a structured project history.
 Allows multiple developers to collaborate on the same project without overwriting each other's work.
-Developers access and update a central repository, where project files are stored.
-Enables teams to share updates and revert to earlier versions of the project when needed.
+Developers access and update a central repository, where project files are stored

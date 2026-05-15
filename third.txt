@@ -1,0 +1,2 @@
+Distributed Version Control Systems
+A Distributed Version Control System allows each developer to have a local repository along with a working copy of the project. Changes made in the local repository are not automatically visible to others.
