@@ -1,11 +1,8 @@
 ypes of Version Control Systems
 There are three main types of Version Control Systems:
-
 1. Local Version Control Systems (Local VCS)
 A Local Version Control System (LVCS) stores all project versions on a single computer and is mainly used by one user without remote collaboration.
-
 Characteristics:
-
 No internet or server dependency.
 Useful for individual projects.
 Limited to single-user environments.

@@ -1,2 +1,11 @@
 Distributed Version Control Systems
 A Distributed Version Control System allows each developer to have a local repository along with a working copy of the project. Changes made in the local repository are not automatically visible to others.
+
+
+Untracked = file is not being tracked by git 
+staged = it is now available in 
+            staging area and ready to commit
+commited = permanently saved in git history
+
+workflow:
+working directry -> git add -> staging area -> git commit
